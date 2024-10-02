@@ -1,0 +1,19 @@
+.normal {
+    background-color: rgb(240, 117, 117);
+    font-size: 20px;
+}
+
+.gross {
+    font-size: 30px;
+}
+
+#bluebig {
+    font-size: 45px;
+    color: blue;
+}
+
+#green {
+    font-size: 27px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
